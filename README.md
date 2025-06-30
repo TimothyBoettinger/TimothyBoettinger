@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Timothy Boettinger 👋
 
-<!--
-**TimothyBoettinger/TimothyBoettinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner and problem-solver, currently documenting my journey into the world of software development and system administration. I believe in hands-on learning and continuous improvement.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Skills
+
+*   **Operating Systems:** Linux (Pop!_OS), Windows
+*   **Languages:** Bash Scripting, Python (Beginner)
+*   **Tools:** Git & GitHub, Visual Studio Code, Gemini CLI
+*   **Concepts:** Command-Line Interface (CLI), Version Control, System Customization
+
+---
+
+### 🌱 I’m Currently Learning
+
+*   Advanced Shell Scripting and Automation
+*   Core concepts of Data Structures and Algorithms
+*   Exploring the capabilities of AI-powered developer tools
+
+---
+
+### 🔭 My Projects
+
+A collection of my hands-on learning experiences:
+
+*   **[My Tech Journey](https://github.com/TimothyBoettinger/my-tech-journey):** A detailed log of my daily progress, from OS installation and customization to exploring new development tools.
+
+---
+
+### 📫 How to Reach Me
+
+*   **Email:** [tboettinger@my.waketech.edu](mailto:tboettinger@my.waketech.edu)
