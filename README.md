@@ -21,6 +21,15 @@ I'm a passionate learner and problem-solver, currently documenting my journey in
 
 ---
 
+### 🎯 Current Focus & Roadmap
+
+- [x] Set up a professional profile README.
+- [x] Implement a GitHub Action for CI/CD in my `my-tech-journey` project.
+- [ ] Document the setup and configuration process for media applications like Kodi or RetroDeck.
+- [ ] Write detailed guides explaining my technical choices and troubleshooting steps.
+
+---
+
 ### 🔭 My Projects
 
 A collection of my hands-on learning experiences:
