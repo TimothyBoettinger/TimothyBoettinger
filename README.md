@@ -75,5 +75,5 @@ KQL queries for Microsoft Defender/XDR environments.
  SIGNALS
        GitHub:   @TimothyBoettinger
 
-TIMOTHY_BOETTINGER(1)                  June 2026                 TIMOTHY_BOETTINGER(1)
+ TIMOTHY_BOETTINGER(1)                  June 2026                 TIMOTHY_BOETTINGER(1)
 ``` 
